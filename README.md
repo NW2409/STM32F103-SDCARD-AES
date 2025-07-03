@@ -1,5 +1,6 @@
 Phần mềm viết bằng C#
 STM32F103 dùng CubeMX và KeilC
+
 •	Bảo vệ dữ liệu trong hệ thống nhúng, bao gồm:
 -	Mã hóa dữ liệu lưu trữ.
 -	Mã hóa dữ liệu truyền qua giao tiếp.
