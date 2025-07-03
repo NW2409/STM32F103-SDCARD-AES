@@ -1,0 +1,35 @@
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Debug\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Debug\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.Form1.resources
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Debug\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Debug\Resources\security-shield_icon-icons.com_52819.ico
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\bin\Debug\Resources\security-shield_icon-icons.com_52819.ico
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\bin\Debug\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\bin\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\bin\Debug\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.Form1.resources
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN - Copy\ATHTN\obj\Debug\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\bin\Debug\Resources\security-shield_icon-icons.com_52819.ico
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\bin\Debug\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\bin\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\bin\Debug\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.Form1.resources
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\2\ATHTN\ATHTN\obj\Debug\ATHTN.pdb

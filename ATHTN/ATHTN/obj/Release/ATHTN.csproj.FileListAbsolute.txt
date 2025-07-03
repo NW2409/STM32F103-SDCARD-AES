@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Release\ATHTN.exe.config
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Release\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\bin\Release\ATHTN.pdb
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.Form1.resources
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.exe
+C:\Users\Admin\Desktop\ATHTN\ATHTN\ATHTN\obj\Release\ATHTN.pdb

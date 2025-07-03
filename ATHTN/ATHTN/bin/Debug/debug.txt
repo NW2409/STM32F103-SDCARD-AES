@@ -1,0 +1,22 @@
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: OK: Ready to receive file chunks
+Sending: SEND_CHUNK:4145532028416476616e63656420456e6372797...
+Response: ERROR: Command too long
+Error: STM32 error: ERROR: Command too long
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: ERROR: Unknown command
+Error: STM32 error: ERROR: Unknown command
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: OK: Ready to receive file chunks
+Sending: SEND_CHUNK:4145532028416476616e63656420456e6372797...
+Response: ERROR: Command too long
+Error: STM32 error: ERROR: Command too long
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
+Error: STM32 error: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
+Error: STM32 error: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
+Sending: SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420
+Response: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
+Error: STM32 error: DEBUG: Raw command: 'SEND_START:5e58f2c39e8fc2220a2740a9a26be9a5:aes.txt:420' (len: 55)
